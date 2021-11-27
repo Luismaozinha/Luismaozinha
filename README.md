@@ -8,7 +8,7 @@
 - 👯 Estou procurando trabalhos freelance para iniciantes podendo, inclusive, fazer o primeiro trabalho grátis para demonstrar a qualidade do trabalho.
 - 🤔 Estou retomando a carreira de TI. Conheço as linguagens DBASE, Clipper e Delphi 3.
 - 💬 Se precisar de ajuda, entre em contato. Será um prazer poder ajudar.
-- 📫 Contato: [luismaozinha@hotmail.com] (mailto:luismaozinha@hotmail.com)
+- 📫 Contato: [luismaozinha@hotmail.com](mailto:luismaozinha@hotmail.com)
 - 😄 Interesses: Projetos em python com foco em áreas comerciais, industriais, financeiras, médicas, jurídicas etc...
 - ⚡ Fatos engraçados: Atualmente tenho uma cachorra chama Nina 💖. Ah! Minha sogra mora comigo 🤣.
 
