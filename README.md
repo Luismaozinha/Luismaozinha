@@ -14,7 +14,7 @@
 
 ### Skills
 
-https://img.shields.io/badge/python-<🐍>-<green>
+https://img.shields.io/badge/python-<🐍>-<green>  
 https://img.shields.io/badge/django-<🏆>-<green>
 
 ### Status:
